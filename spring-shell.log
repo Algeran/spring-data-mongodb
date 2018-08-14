@@ -1,0 +1,31 @@
+1534254784839:help
+1534254789932:count-genres
+1534254803953:list-genres
+1534254814131:list-authors
+1534254820732:list-books
+1534254828882:list-comments
+1534254852115:crate-genre novel
+1534254861285:create-genre novel
+1534254866569:list-genres
+1534254876349:create-author Bill Will
+1534254881059:list-authors
+1534254894968:help
+1534254931861:create-author 'Sam A' Wotkins
+1534254935890:list-authors
+1534254962951:create-book 'Harry Potter' 'Sam A' Wotkins novel
+1534254967978:list-books
+1534255007013:delete-genre fantasy
+1534255020001:list-books
+1534255037924:delete-author B V
+1534255045953:help
+1534255060045:create-comment Sam wow 'Harry Potter'
+1534255063754:list-comments
+1534255082836:delete-comments Sam
+1534255094819:delete-comment Sam
+1534255112148:get-genre-books novel
+1534255120744:help
+1534255127353:count-books
+1534255147782:get-author-books 'Sam A' Watkins
+1534255165045:get-author-books 'Sam A' Wotkins
+1534255180060:get-book-comments 'Harry Potter'
+1534255190096:exit
